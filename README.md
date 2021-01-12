@@ -19,8 +19,17 @@ Ill start with a little background on this project .This is my final semester me
 
 The code is written in python. The code has the following parts .
 
-  1. ### video is converted to gray scale
+  1. ### gray scaling
   2. ### thresholding
-  3. ### finding the contours
-  4. ### algorthims are applied on the contours.
+  3. ### contour detection
+  4. ### processing the contour coordinates
+  
+### gray scaling
+The camera is turned on and everything captured by it is converted to gray scale(black and white). This is followed by a process called thresholding.
+
+![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/coloured-image-to-grayscale-using-opencv.jpg)
+
+### thresholding
+
+
 
