@@ -66,9 +66,9 @@ after this we calculate the perimeter for **rectangle and circle** using formual
 we then append them to a list and sort them. 
 we compare it with another list which has the same values in the order squares ,circle and rectangle. 
 
-![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/algo.png)
+![link to working video ](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/algo.png)
 
-![](https://www.youtube.com/watch?v=fxn6ze205x0)
+![link to working video on youtube](https://www.youtube.com/watch?v=fxn6ze205x0)
 
 
 
