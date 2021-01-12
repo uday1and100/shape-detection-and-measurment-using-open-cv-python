@@ -32,4 +32,10 @@ The camera is turned on and everything captured by it is converted to gray scale
 ### thresholding
 
 
+after gray scaling the frames are now in black and white. The gray scale frame now has pixel values ranging from 0 to 255 where 0 is complete black and 255 is completely white. while applying **binary thresholding** , we specify two values say x and y. The pixel values in the frame which are less than x are set to 0 and pixel values greater than x are set to y.
+![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/thresh.jpg)
+
+
+
+
 
