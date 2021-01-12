@@ -66,16 +66,7 @@ after this we calculate the perimeter for **rectangle and circle** using formual
 we then append them to a list and sort them. 
 we compare it with another list which has the same values in the order squares ,circle and rectangle. 
 
-### algorithm 
-  if (lowest value of the list is 0)
-     if (second lowest value of the list is the value of circle)
-         then it is a circle
-     else(it is not of circle)
-         then it is a square
- else 
-     it is a rectangle
-
-
+![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/algo.png)
 
 
 
