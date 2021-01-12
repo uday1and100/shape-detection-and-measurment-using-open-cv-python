@@ -35,7 +35,23 @@ The camera is turned on and everything captured by it is converted to gray scale
 after gray scaling the frames are now in black and white. The gray scale frame now has pixel values ranging from 0 to 255 where 0 is complete black and 255 is completely white. while applying **binary thresholding** , we specify two values say x and y. The pixel values in the frame which are less than x are set to 0 and pixel values greater than x are set to y.
 ![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/thresh.jpg)
 
+### contour detection
+Contours can be explained simply as a curve joining all the continuous points (along the boundary), having same color or intensity.The inbuilt function in python open cv called find contours is used. 
 
+![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/contours.png)
+
+
+### processing the contour coordinates
+
+The find contour method gives us a numpy array of the  coordinates of the curve joining all the continous points around the object. 
+using the contours we find the following , 
+
+- **max x coordinate**
+- **max y coordinate**
+- **min x coordinate**
+- **min y coordinate**
+
+![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/contour%20coordinate.jpg)
 
 
 
