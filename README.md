@@ -13,5 +13,14 @@ Ill start with a little background on this project .This is my final semester me
 
 
 ## Libraries used
-[open cv](https://opencv-python.readthedocs.io/_/downloads/en/latest/pdf/)is the only library that has been used for this project. Open computer vision library is used for operating the camera , image/video capturing and processing. It connects the algorithms with the object in front of the camera. 
+[open cv](https://opencv-python.readthedocs.io/_/downloads/en/latest/pdf/) is the only library that has been used for this project. Open computer vision library is used for operating the camera , image/video capturing and processing. It connects the algorithms with the object in front of the camera. 
+
+## code and algorithm
+
+The code is written in python. The code has the following parts .
+
+  1. ### video is converted to gray scale
+  2. ### thresholding
+  3. ### finding the contours
+  4. ### algorthims are applied on the contours.
 
