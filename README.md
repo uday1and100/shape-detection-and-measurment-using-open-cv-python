@@ -53,8 +53,8 @@ using the contours we find the following ,
 
 ![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/contour%20coordinate.jpg)
 
-#  width = max x - min x
-#  height = max y - min y 
+####  width = max x - min x
+####  height = max y - min y 
 
 
 
