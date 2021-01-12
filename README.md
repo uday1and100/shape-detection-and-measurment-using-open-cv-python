@@ -60,7 +60,22 @@ using the contours we find the following ,
 ![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/distance%20point.png)
 
 we use this formula in a for loop to find the distance between each and every adjacent point . **adding all these points gives us the perimeter of the shape**. 
-![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/forloop.png)
+![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/forloop.png). this perimeter is stored in the variable called **distance**
+
+after this we calculate the perimeter for **rectangle and circle** using formuals. we subtract width and height for **square**.
+we then append them to a list and sort them. 
+we compare it with another list which has the same values in the order squares ,circle and rectangle. 
+
+### algorithm 
+  if (lowest value of the list is 0)
+     if (second lowest value of the list is the value of circle)
+         then it is a circle
+     else(it is not of circle)
+         then it is a square
+ else 
+     it is a rectangle
+
+
 
 
 
