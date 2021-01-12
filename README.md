@@ -68,7 +68,7 @@ we compare it with another list which has the same values in the order squares ,
 
 ![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/algo.png)
 
-![](https://github.com/uday1and100/shape-detection-and-measurment-using-open-cv-python/blob/main/victory.avi)
+![](https://www.youtube.com/watch?v=fxn6ze205x0)
 
 
 
