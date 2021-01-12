@@ -13,4 +13,5 @@ Ill start with a little background on this project .This is my final semester me
 
 
 ## Libraries used
+[open cv](https://opencv-python.readthedocs.io/_/downloads/en/latest/pdf/)is the only library that has been used for this project. Open computer vision library is used for operating the camera , image/video capturing and processing. It connects the algorithms with the object in front of the camera. 
 
